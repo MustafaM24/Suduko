@@ -1,4 +1,4 @@
-Data Structures implementation via python in suduko.
+#Data Structures implementation via python in suduko.
 
 DIVIDED THE PROJECT IN A FEW PARTS:
 ALGORITHM,
