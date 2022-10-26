@@ -1,12 +1,7 @@
 # DSA_PROJECT_SUDUKO
-DSA SUMMER PROJECT
+DSA PROJECT
 
-TEAM MEMBERS:
-MUSTAFA MADRASWALA,
-SAKINA SHABBIR,
-AALIYAN IRSHAD,
-
-WE DIVIDED THE PROJECT IN A FEW PARTS:
+DIVIDED THE PROJECT IN A FEW PARTS:
 ALGORITHM,
 SUDOKU TABLES,
 HELPER FUNCTIONS,
@@ -14,19 +9,7 @@ MAIN FUNCTIONS,
 DISPLAY,
 PRESENTATION,
 
-WORK DONE BY PARTNERS:
-MUSTAFA:
-ALGORITHM,
-SUDOKU TABLES,
-DISPLAY,
+The game has 3 levels to the game. 
+You can check the solution after the game via backtracking algorithm.
 
-SAKINA:
-DISPLAY,
-HELPER FUNCTIONS,
-MAIN FUNCTIONS,
-
-AALIYAN:
-HELPER FUNCTIONS,
-PRESENTATION,
-
-,More info on how the game works is available on the pdf uploaded along with other files.
+More info on how the game works is available on the pdf uploaded along with other files.
