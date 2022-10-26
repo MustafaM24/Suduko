@@ -1,5 +1,4 @@
-# DSA_PROJECT_SUDUKO
-DSA PROJECT
+Data Structures implementation via python in suduko.
 
 DIVIDED THE PROJECT IN A FEW PARTS:
 ALGORITHM,
